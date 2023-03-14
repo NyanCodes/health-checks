@@ -1,0 +1,1 @@
+Adding a text for the git test
